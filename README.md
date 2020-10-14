@@ -1,9 +1,9 @@
 # Facebook Messenger Clone:
 ### Technologies already using:
-🚀 React JS
-🚀 Firebase Cloud Database
-🚀 Material-ui
-🍨 React Flip Move 
+🚀 React JS  
+🚀 Firebase Cloud Database  
+🚀 Material-ui  
+🍨 React Flip Move   
 
 
 In the project directory, you can run:
